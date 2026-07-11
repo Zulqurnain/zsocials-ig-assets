@@ -16,7 +16,7 @@ REPO = "zsocials-ig-assets"
 BRANCH = "main"
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
 
-SLUG = {"nirmal-shah": "nirmal-shah", "zj-the-nomad": "zj-the-nomad"}
+SLUG = {"nirmal-shah": "nirmal-shah", "zj-the-nomad": "zj-the-nomad", "zbuyme-my": "zbuyme-my"}
 
 def main():
     if len(sys.argv) < 3:
